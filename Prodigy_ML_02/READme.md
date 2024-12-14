@@ -1,0 +1,3 @@
+TASK 2 : Customer segmentation
+
+This project aims to segment customers of a retail store based on their purchase history. Using K-means clustering, customers are grouped into clusters according to their purchase frequency and total amount spent. The dataset used for this analysis includes synthetic customer purchase history data, containing information such as how often customers make purchases and the total amount they spend. The K-means algorithm is applied to this data to identify distinct customer segments, allowing the retail store to tailor marketing strategies and product offerings to different customer groups effectively. The project includes code for generating the synthetic dataset, performing K-means clustering, and visualizing the resulting clusters.
