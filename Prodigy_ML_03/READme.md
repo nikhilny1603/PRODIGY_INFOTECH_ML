@@ -1,0 +1,3 @@
+TASK 3 : Cat vs Dog
+
+This project implements a Support Vector Machine (SVM) classifier to classify images of cats and dogs using the TensorFlow Datasets (TFDS) Cats vs Dogs dataset. The dataset consists of a large set of images of cats and dogs. The images are preprocessed, resized, and normalized before being fed into the SVM model. The SVM model is trained on a subset of the dataset and achieves a certain accuracy level. Finally, the trained model is tested on a sample image to demonstrate its classification capabilities. This project provides a simple yet effective example of using machine learning algorithms, specifically SVM, for image classification tasks.
